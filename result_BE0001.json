@@ -1,0 +1,56 @@
+{
+  "text": "减振器活塞与缸体发卡，工作阻力过大诊断排除。",
+  "entities": {
+    "部件单元": [
+      {
+        "text": "减振器",
+        "start": 0,
+        "end": 3,
+        "probability": 0.95
+      },
+      {
+        "text": "活塞",
+        "start": 3,
+        "end": 5,
+        "probability": 0.95
+      },
+      {
+        "text": "缸体",
+        "start": 6,
+        "end": 8,
+        "probability": 0.95
+      }
+    ],
+    "性能表征": [
+      {
+        "text": "阻力",
+        "start": 13,
+        "end": 15,
+        "probability": 0.95
+      }
+    ],
+    "故障状态": [
+      {
+        "text": "发卡",
+        "start": 8,
+        "end": 10,
+        "probability": 0.95
+      },
+      {
+        "text": "阻力过大",
+        "start": 13,
+        "end": 17,
+        "probability": 0.95
+      }
+    ],
+    "检测工具": []
+  },
+  "relations": {
+    "部件故障": [],
+    "性能故障": [],
+    "检测工具": [],
+    "组成关系": []
+  },
+  "spo_list": [],
+  "ID": "BE0001"
+}

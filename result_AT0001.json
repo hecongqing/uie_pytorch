@@ -1,0 +1,104 @@
+{
+  "text": "故障现象:车速到100迈以上发动机盖后部随着车速抖动。故障原因简要分析:经技术人员试车；怀疑发动机盖锁或发动机盖铰链松旷。",
+  "entities": {
+    "部件单元": [
+      {
+        "text": "发动机盖",
+        "start": 14,
+        "end": 18,
+        "probability": 0.95
+      },
+      {
+        "text": "发动机盖",
+        "start": 46,
+        "end": 50,
+        "probability": 0.95
+      },
+      {
+        "text": "发动机盖",
+        "start": 52,
+        "end": 56,
+        "probability": 0.95
+      },
+      {
+        "text": "发动机盖锁",
+        "start": 46,
+        "end": 51,
+        "probability": 0.95
+      },
+      {
+        "text": "发动机盖铰链",
+        "start": 52,
+        "end": 58,
+        "probability": 0.95
+      },
+      {
+        "text": "发动机",
+        "start": 14,
+        "end": 17,
+        "probability": 0.95
+      },
+      {
+        "text": "发动机",
+        "start": 46,
+        "end": 49,
+        "probability": 0.95
+      },
+      {
+        "text": "发动机",
+        "start": 52,
+        "end": 55,
+        "probability": 0.95
+      },
+      {
+        "text": "车速",
+        "start": 5,
+        "end": 7,
+        "probability": 0.95
+      },
+      {
+        "text": "车速",
+        "start": 22,
+        "end": 24,
+        "probability": 0.95
+      }
+    ],
+    "性能表征": [
+      {
+        "text": "车速",
+        "start": 5,
+        "end": 7,
+        "probability": 0.95
+      },
+      {
+        "text": "车速",
+        "start": 22,
+        "end": 24,
+        "probability": 0.95
+      }
+    ],
+    "故障状态": [
+      {
+        "text": "抖动",
+        "start": 24,
+        "end": 26,
+        "probability": 0.95
+      },
+      {
+        "text": "松旷",
+        "start": 58,
+        "end": 60,
+        "probability": 0.95
+      }
+    ],
+    "检测工具": []
+  },
+  "relations": {
+    "部件故障": [],
+    "性能故障": [],
+    "检测工具": [],
+    "组成关系": []
+  },
+  "spo_list": [],
+  "ID": "AT0001"
+}
